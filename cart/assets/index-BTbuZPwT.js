@@ -12707,11 +12707,11 @@ Error generating stack: ` + o.message + `
         }, {
             id: 2,
             name: "Twitter",
-            href: "https://twitter.com/eboyonsol"
+            href: "https://twitter.com/gomestep"
         }, {
             id: 3,
             name: "Pump.fun",
-            href: "https://pump.fun/EsNBGuxtHgmMywjFzc3S9Q1k92wiFGYftqAn2sKj1BQD"
+            href: "https://twitter.com/gomestep"
         }];
         return T.jsx(T.Fragment, {
             children: T.jsx("div", {
