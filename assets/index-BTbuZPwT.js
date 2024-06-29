@@ -12700,7 +12700,7 @@ Error generating stack: ` + o.message + `
       }, {
           id: 2,
           name: "Twitter",
-          href: "https://twitter.com/gomestep"
+          href: " https://x.com/gomestep"
       }, {
           id: 3,
           name: "Pump.fun",
