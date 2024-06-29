@@ -12711,7 +12711,7 @@ Error generating stack: ` + o.message + `
         }, {
             id: 3,
             name: "Pump.fun",
-            href: "https://www.pump.fun/3ByVXsR9gCkbqsmmXjxsfeFai3xRpfuZYX2D5KQFsvg3"
+            href: "https://pump.fun/3bRUNtRcxxiLqViPwDfvvBxiUqajmPiaAGJ8W4ispump"
         }];
         return T.jsx(T.Fragment, {
             children: T.jsx("div", {
