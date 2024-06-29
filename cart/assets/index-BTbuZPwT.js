@@ -12703,7 +12703,7 @@ Error generating stack: ` + o.message + `
         const e = [{
             id: 1,
             name: "Telegram (CTO)",
-            href: "https://t.me/eboycto"
+            href: "https://t.me/GomeStep"
         }, {
             id: 2,
             name: "Twitter",
